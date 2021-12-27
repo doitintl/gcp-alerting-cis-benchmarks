@@ -2,7 +2,7 @@
 The following suggestions are to enhance Google Cloud Platform's Cloud Monitoring by adding additional security monitoring and alerting based on CIS benchmarks.
 
 # Tip: stay current with CIS/NIST
-It is recommended that you check the latest (https://cloud.google.com/security-command-center/docs/how-to-remediate-security-health-analytics-findings)[Security Command Center Remediations] and search the page for "MONITORING" for any additional recommended checks by CIS and NIST.
+It is recommended that you check the latest [Security Command Center Remediations](https://cloud.google.com/security-command-center/docs/how-to-remediate-security-health-analytics-findings) and search the page for "MONITORING" for any additional recommended checks by CIS and NIST.
 
 # SSH
 OS Login enables centralized SSH key management with IAM, and it disables metadata-based SSH key configuration on all instances in a project. OS Login can be enabled on the project level or on the instance level. Instance-level values override the project-level value.
